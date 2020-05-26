@@ -1,4 +1,4 @@
-fname = 'gudianwu.1.0001.csv';
+fname = 'gudianwu.csv';
 src_path = ['..\training_results\motions\gudianwu\', fname];
 load('cmu_retarget_skel.mat');
 frame_rate = 0.03;

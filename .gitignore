@@ -2,3 +2,4 @@
 /dataset
 /training_results/models/*
 /training_results/motions/*
+!/dataset/music_feature/librosa/samples/*
