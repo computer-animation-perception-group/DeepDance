@@ -1,0 +1,4 @@
+*.pyc
+/dataset
+/training_results/models/*
+/training_results/motions/*

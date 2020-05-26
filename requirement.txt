@@ -1,0 +1,4 @@
+tensorflow_gpu==1.8.0
+numpy==1.16.4
+pandas==0.24.2
+librosa==0.6.3
