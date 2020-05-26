@@ -1,7 +1,3 @@
 *.pyc
-/dataset/motion_feature
-/dataset/fold_json
-/dataset/music_feature/librosa/*
-!/dataset/music_feature/librosa/samples
 /training_results/models/*
 /training_results/motions/*
