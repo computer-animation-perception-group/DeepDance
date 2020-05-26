@@ -4,7 +4,6 @@ import json
 import os
 import time
 from collections import OrderedDict
-from datetime import datetime
 
 import numpy as np
 from model.base_model import *
@@ -103,8 +102,7 @@ def run_main(config, data_info):
             tf.train.start_queue_runners(sess=session, coord=coord)
 
             dance_genre = config.model_path[26: config.model_path.rfind('/')]
-            time_str = datetime.now().strftime('%Y-%m-%d-%H-%M-%S')
-            time_dir = os.path.join(config.save_dir, dance_genre, time_str)
+            time_dir = os.path.join(config.save_dir, dance_genre)
             os.makedirs(time_dir)
             start_time = time.time()
             generate_motion(session, test_model,
