@@ -27,7 +27,6 @@ for fname in sorted(os.listdir(data_path)):
     print(filename)
 
     y, sr = librosa.load(filename,sr=None)
-    y = y[441000*2:]
 
     frames = math.floor(motion_frequency*len(y)/sr)
 
