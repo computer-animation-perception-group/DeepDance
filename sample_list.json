@@ -1,1 +1,4 @@
-["samples/gudianwu.csv"]
+[
+    "samples/gudianwu.csv",
+    "samples/sample_music1.csv"
+]

@@ -1,4 +1,4 @@
-model_path=./training_results/models/gudianwu/cnn-erd_14_model.ckpt.meta
+model_path=./training_results/models/chaoxianzu/cnn-erd_14_model.ckpt.meta
 CUDA_VISIBLE_DEVICES=0 \
 python3 generate_dance.py \
      --rnn_keep_list 0.95 0.9 1.0\
