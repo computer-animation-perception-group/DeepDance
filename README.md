@@ -1,5 +1,5 @@
 # DeepDance: Music-to-Dance Motion Choreography with Adversarial Learning
-This reop contains code of paper on Music2Dance generation: "[DeepDance: Music-to-Dance Motion Choreography with Adversarial Learning](https://ieeexplore.ieee.org/abstract/document/9042236/)"
+This reop contains code of paper on Music2Dance generation: "[DeepDance: Music-to-Dance Motion Choreography with Adversarial Learning](https://ieeexplore.ieee.org/abstract/document/9042236/)". [Project Page](http://zju-capg.org/deepdance.html)
 
 ## Requirements
 - A CUDA compatible GPU
