@@ -33,7 +33,7 @@ This reop contains code of paper on Music2Dance generation: "[DeepDance: Music-t
   Training code will be released soon
 - **Trained Models**
 
-  We provide [trained models]() of multiple dancing genres, including [Classical Chinese dance](), [Korean dance](), and so on.
+   Trained models of multiple dancing genres are on [GoogleDrive](https://drive.google.com/drive/u/1/folders/1a3-bf2N-TdzgVBqaAdRRKsWuicqKlTGK).
 
   Download these models and put them on "./training_results/models".
 
