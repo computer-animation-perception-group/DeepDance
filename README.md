@@ -43,7 +43,8 @@ This reop contains code of paper on Music2Dance generation: "[DeepDance: Music-t
 
   Open matlab and set path to "m2m_evaluation" folder and run csv_visualization.m
 
-  ![](images/1.gif =200x200) ![](images/2.gif = 200x200)
+  ![](images/1.gif){:height="200px" width="200px"}
+  ![](images/2.gif){:height="200px" width="200px"}
 
 ## License
 Licensed under an GPL v3.0 License.
