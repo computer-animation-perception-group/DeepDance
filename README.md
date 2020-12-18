@@ -54,8 +54,8 @@ Licensed under an GPL v3.0 License.
   author={G. {Sun} and Y. {Wong} and Z. {Cheng} and M. S. {Kankanhalli} and W. {Geng} and X. {Li}},
   journal={IEEE Transactions on Multimedia}, 
   title={DeepDance: Music-to-Dance Motion Choreography with Adversarial Learning}, 
-  year={2020},
-  volume={},
+  year={2021},
+  volume={23},
   number={},
-  pages={1-1},}
+  pages={497-509},}
 ```
