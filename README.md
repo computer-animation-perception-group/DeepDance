@@ -28,6 +28,7 @@ This reop contains code of paper on Music2Dance generation: "[DeepDance: Music-t
 - **Dataset**
 
   ~~Datas will be released soon.~~
+  
   Our EA-MUD dataset is available now.
 - **Training**
 
