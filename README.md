@@ -1,5 +1,5 @@
 # DeepDance: Music-to-Dance Motion Choreography with Adversarial Learning
-This reop contains code of paper on Music2Dance generation: "[DeepDance: Music-to-Dance Motion Choreography with Adversarial Learning](https://ieeexplore.ieee.org/abstract/document/9042236/)". [Project Page](http://zju-capg.org/deepdance.html)
+This reop contains code of paper on Music2Dance generation: "[DeepDance: Music-to-Dance Motion Choreography with Adversarial Learning](https://ieeexplore.ieee.org/abstract/document/9042236/)". [Project Page](http://zju-capg.org/research_en_music_deepdance.html)
 
 ## Requirements
 - A CUDA compatible GPU
@@ -27,7 +27,9 @@ This reop contains code of paper on Music2Dance generation: "[DeepDance: Music-t
   Generated dances are in "training_results/motions". You can change folders of generated dances by changing last line of "generate_dance.sh".
 - **Dataset**
 
-  Datas will be released soon.
+  ~~Datas will be released soon.~~
+  
+  Our EA-MUD dataset is available now.
 - **Training**
 
   Training code will be released soon
@@ -54,8 +56,8 @@ Licensed under an GPL v3.0 License.
   author={G. {Sun} and Y. {Wong} and Z. {Cheng} and M. S. {Kankanhalli} and W. {Geng} and X. {Li}},
   journal={IEEE Transactions on Multimedia}, 
   title={DeepDance: Music-to-Dance Motion Choreography with Adversarial Learning}, 
-  year={2020},
-  volume={},
+  year={2021},
+  volume={23},
   number={},
-  pages={1-1},}
+  pages={497-509},}
 ```
