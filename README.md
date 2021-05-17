@@ -32,7 +32,9 @@ This reop contains code of paper on Music2Dance generation: "[DeepDance: Music-t
   Our EA-MUD dataset is available now.
 - **Training**
 
-  Training code will be released soon
+  ~~Training code will be released soon.~~
+
+  [Training code](https://github.com/computer-animation-perception-group/DeepDance_train) is available now.
 - **Trained Models**
 
    Trained models of multiple dancing genres are on [GoogleDrive](https://drive.google.com/drive/u/1/folders/1a3-bf2N-TdzgVBqaAdRRKsWuicqKlTGK).
